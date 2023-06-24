@@ -1,7 +1,7 @@
 hello, Git!12345
 hello, Git!
 hello, Git!000
-hello, Git!
+hello, Git!hot-fix
 hello, Git!
 hello, Git!
 hello, Git!
